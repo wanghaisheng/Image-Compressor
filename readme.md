@@ -1,4 +1,4 @@
-## Image Compressor
+## shopconna Image Compressor
 
 <img src="assets/images/readme.png">
 
